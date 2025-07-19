@@ -6,15 +6,16 @@ Durante mis prácticas profesionales en la AEM, participé activamente en el des
 
 Actividades destacadas:
 
-Desarrollé dashboards interactivos en Power BI para simular el análisis satelital de contaminantes (NOx, CO, PM2.5), conectando datos abiertos con escenarios ambientales reales.
+- Desarrollé dashboards interactivos en Power BI para simular el análisis satelital de contaminantes (NOx, CO, PM2.5), conectando datos abiertos con escenarios ambientales reales.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/c2d3c764-6962-4bcc-a469-a0a37b2d13c3" />
 
-Apliqué procesos ETL para limpiar y estructurar datasets ambientales con Python y Power Query.
+- Apliqué procesos ETL para limpiar y estructurar datasets ambientales con Python y Power Query.
 
-Realicé simulaciones orbitales con STK (Systems Tool Kit) de Ansys, modelando trayectorias y comunicaciones del satélite G-20.
+- Realicé simulaciones orbitales con STK (Systems Tool Kit) de Ansys, modelando trayectorias y comunicaciones del satélite G-20.
 
-Participé en el diseño conceptual del gemelo digital del satélite, investigando tecnologías compatibles para modelado espacial.
+- Participé en el diseño conceptual del gemelo digital del satélite, investigando tecnologías compatibles para modelado espacial.
 
-Analicé riesgos de ciberseguridad espacial, incluyendo amenazas en telemetría, control y transmisión de datos.
+- Analicé riesgos de ciberseguridad espacial, incluyendo amenazas en telemetría, control y transmisión de datos.
 
-Complementé mi formación con cursos especializados de CySat, enfocados en seguridad ofensiva y defensiva en satélites y sistemas espaciales.
+- Complementé mi formación con cursos especializados de CySat, enfocados en seguridad ofensiva y defensiva en satélites y sistemas espaciales.
 
