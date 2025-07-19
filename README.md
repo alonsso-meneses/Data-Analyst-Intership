@@ -15,7 +15,7 @@ Actividades destacadas:
 - Realicé simulaciones orbitales con STK (Systems Tool Kit) de Ansys, modelando trayectorias y comunicaciones del satélite G-20.
 
 - Participé en el diseño conceptual del gemelo digital del satélite, investigando tecnologías compatibles para modelado espacial.
-![Up<img width="1366" height="768" alt="Captura de pantalla (265)" src="https://github.com/user-attachments/assets/53a3fd92-cca0-4d1f-9433-46a80c0af6e1" />
+  <img width="1366" height="768" alt="Captura de pantalla (265)" src="https://github.com/user-attachments/assets/53a3fd92-cca0-4d1f-9433-46a80c0af6e1" />
 
 - Analicé riesgos de ciberseguridad espacial, incluyendo amenazas en telemetría, control y transmisión de datos.
 
