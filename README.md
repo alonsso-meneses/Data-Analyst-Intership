@@ -1,6 +1,6 @@
 # Data-Analyst-Intership
 Practicante de Análisis de Datos y Ciberseguridad Espacial
-ENMICE & Agencia Espacial Mexicana (AEM) | Feb 2025 – Jul 2025
+ENMICE & Agencia Espacial Mexicana (AEM) | Ago 2024 – Marzo 2025
 
 Durante mis prácticas profesionales en la AEM, participé activamente en el desarrollo de soluciones tecnológicas para la misión satelital internacional G‑20, enfocadas en el diseño de un gemelo digital del satélite y el análisis de emisiones atmosféricas en México.
 
