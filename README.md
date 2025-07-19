@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Captura de pantalla (265)" src="https://github.com/user-attachments/assets/c60487ee-7cc6-49c3-bb82-2fa95d40dc76" /># Data-Analyst-Intership
+# Data-Analyst-Intership
 Practicante de Análisis de Datos y Ciberseguridad Espacial
 ENMICE & Agencia Espacial Mexicana (AEM) | Ago 2024 – Marzo 2025
 
